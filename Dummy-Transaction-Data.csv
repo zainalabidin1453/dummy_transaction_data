@@ -1,4 +1,4 @@
-﻿transaction_id,account_id,transaction_amount,avg_daily_amount,transaction_time,recipient_id,is_known_contact,destination_country,account_type,declared_income,prior_risk_score,transactions_last_hour
+﻿transaction_id,account_id,transaction_amount,avg_daily_amount,transaction_time,recipient_id,is_known_contact,destination_country,account_type,declared_income,prior_risk_score,transactions_last_hour,risk_label
 TX001,1001,78000000,1248000,10:25,6008,FALSE,Nigeria,Business,11000000,0.95,13
 TX002,1002,136000000,1768000,18:55,4007,FALSE,Mexico,Personal,19000000,0.91,15
 TX003,1003,107000000,1712000,03:01,10009,TRUE,Syria,Business,15500000,0.24,12
