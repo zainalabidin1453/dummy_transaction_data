@@ -1,52 +1,52 @@
-﻿account_id;account_type;avg_daily_amount;transaction_id;transaction_amount;transaction_time;transaction_type;recipient_id;is_known_contact;from_country;transaction_from
-1;personal;10,000,000 ;T001;50,000,000 ;10.00 Waktu North Korea;K;2;TRUE;North Korea;L_Bank A
-2;personal;15,000,000 ;T002;50,000,000 ;10.00 Waktu North Korea;D;2;TRUE;North Korea;L_Bank A
-2;personal;15,000,000 ;T003;50,000,000 ;14.10 Waktu North Korea;K;3;FALSE;North Korea;L_Bank B
-3;business;20,000,000 ;T004;50,000,000 ;13.10 Waktu Indonesia;D;3;FALSE;North Korea;L_Bank B
-3;business;20,000,000 ;T005;40,000,000 ;13.15 Waktu Indonesia;K;4;TRUE;Indonesia;I_Bank A
-4;personal;12,000,000 ;T006;40,000,000 ;13.15 Waktu Indonesia;D;4;TRUE;Indonesia;I_Bank A
-4;personal;12,000,000 ;T007;30,000,000 ;20.00 Waktu Indonesia;K;5;FALSE;Indonesia;I_Bank B
-4;personal;12,000,000 ;T008;10,000,000 ;20.10 Waktu Indonesia;K;6;FALSE;Indonesia;I_Bank B
-5;personal;8,000,000 ;T009;30,000,000 ;20.00 Waktu Indonesia;D;4;FALSE;Indonesia;I_Bank B
-6;personal;6,000,000 ;T010;10,000,000 ;20.10 Waktu Indonesia;D;4;FALSE;Indonesia;I_Bank B
-7;personal;9,000,000 ;T011;600,000 ;11:05 Waktu Indonesia;D;7;FALSE;Indonesia;Online Gambling
-8;business;5,000,000 ;T012;30,000,000 ;08.00 Waktu Indonesia;K;9;FALSE;Indonesia;I_Bank A
-9;business;4,800,000 ;T013;30,000,000 ;08.00 Waktu Indonesia;D;9;FALSE;Indonesia;I_Bank A
-9;business;4,800,000 ;T014;30,000,000 ;09.00 Waktu Indonesia;K;10;TRUE;Indonesia;I_Bank B
-10;business;3,800,000 ;T015;30,000,000 ;09.00 Waktu Indonesia;D;10;TRUE;Indonesia;I_Bank B
-10;business;4,800,000 ;T016;10,000,000 ;09.10 Waktu Indonesia;K;11;FALSE;Indonesia;I_Bank C
-10;business;4,800,000 ;T017;10,000,000 ;09.30 Waktu Indonesia;K;12;TRUE;Indonesia;I_Bank C
-10;business;4,800,000 ;T018;10,000,000 ;09.40 Waktu Indonesia;K;13;FALSE;Indonesia;I_Bank C
-11;personal;5,000,000 ;T019;10,000,000 ;09.10 Waktu Indonesia;D;10;FALSE;Indonesia;I_Bank C
-12;personal;2,500,000 ;T020;10,000,000 ;09.30 Waktu Indonesia;D;10;TRUE;Indonesia;I_Bank C
-13;personal;3,000,000 ;T021;10,000,000 ;09.40 Waktu Indonesia;D;10;FALSE;Indonesia;I_Bank C
-14;personal;1,500,000 ;T022;1,000,000 ;09.30 Waktu Indonesia;D;14;TRUE;Indonesia;I_Bank A
-15;personal;1,300,000 ;T023;1,000,000 ;09.00 Waktu Indonesia;D;15;FALSE;Indonesia;I_Bank B
-16;personal;1,200,000 ;T024;1,500,000 ;08.30 Waktu Indonesia;D;16;TRUE;Indonesia;I_Bank A
-17;personal;1,100,000 ;T025;1,500,000 ;11.40 Waktu Indonesia;D;17;FALSE;Indonesia;I_Bank B
-18;business;2,000,000 ;T026;2,000,000 ;08.35 Waktu Indonesia;D;18;TRUE;Indonesia;I_Bank A
-19;business;2,100,000 ;T027;2,000,000 ;14:00 Waktu Indonesia;D;19;FALSE;Indonesia;I_Bank B
-20;personal;1,400,000 ;T028;700,000 ;20.30 Waktu Indonesia;D;20;FALSE;Indonesia;I_Bank A
-21;personal;13,000,000 ;T029;3,200,000 ;05.20 Waktu Indonesia;D;21;TRUE;Indonesia;I_Bank B
-22;personal;1,600,000 ;T030;900,000 ;17.30 Waktu Indonesia;D;22;TRUE;Indonesia;I_Bank A
-23;personal;15,000,000 ;T031;4,900,000 ;19.00 Waktu Indonesia;D;23;TRUE;Indonesia;I_Bank B
-24;personal;10,000,000 ;T032;20,000,000 ;01.00 Waktu Singapore;D;24;TRUE;Singapore;L_Bank C
-24;personal;10,000,000 ;T033;20,000,000 ;01.10 Waktu Singapore;K;25;FALSE;Singapore;L_Bank C
-25;personal;15,000,000 ;T034;20,000,000 ;01.10 Waktu Indonesia;D;25;FALSE;Singapore;L_Bank C
-25;personal;15,000,000 ;T035;20,000,000 ;02.00 Waktu Indonesia;K;26;TRUE;Indonesia;I_Bank A
-26;business;25,000,000 ;T036;20,000,000 ;02.00 Waktu Indonesia;D;26;TRUE;Indonesia;I_Bank A
-26;business;25,000,000 ;T037;40,000,000 ;03.00 Waktu Indonesia;K;27;TRUE;Indonesia;I_Bank B
-27;personal;14,000,000 ;T038;40,000,000 ;03.00 Waktu Indonesia;D;27;TRUE;Indonesia;I_Bank B
-27;personal;14,000,000 ;T039;20,000,000 ;04.00 Waktu Indonesia;K;28;FALSE;Indonesia;I_Bank C
-27;personal;14,000,000 ;T040;15,000,000 ;04.05 Waktu Indonesia;K;29;FALSE;Indonesia;I_Bank C
-27;personal;14,000,000 ;T041;5,000,000 ;04.15 Waktu Indonesia;K;30;TRUE;Indonesia;I_Bank C
-28;business;12,000,000 ;T042;20,000,000 ;04.00 Waktu Indonesia;D;28;FALSE;Indonesia;I_Bank C
-29;personal;11,000,000 ;T043;15,000,000 ;04.05 Waktu Indonesia;D;29;FALSE;Indonesia;I_Bank C
-30;personal;9,000,000 ;T044;5,000,000 ;04.15 Waktu Indonesia;D;30;TRUE;Indonesia;I_Bank C
-31;business;15,000,000 ;T045;100,000,000 ;15.15 Waktu Venezuela;K;32;FALSE;Venezuela;L_Bank D
-32;personal;3,000,000 ;T046;100,000,000 ;02.15 Waktu Indonesia;D;32;FALSE;Venezuela;L_Bank D
-33;business;20,000,000 ;T047;150,000,000 ;11.00 Waktu Germany;D;33;TRUE;Germany;L_Bank E
-33;business;20,000,000 ;T048;150,000,000 ;22.00 Waktu Germany;K;34;FALSE;Germany;L_Bank E
-34;business;25,000,000 ;T049;120,000,000 ;03.00 Waktu Indonesia;D;34;FALSE;Germany;L_Bank E
-34;business;25,000,000 ;T050;120,000,000 ;04.00 Waktu Indonesia;K;35;FALSE;Indonesia;I_Bank A
-35;business;15,000,000 ;T051;120,000,000 ;04.00 Waktu Indonesia;D;35;FALSE;Indonesia;Banking
+﻿account_id,account_type,avg_daily_amount,transaction_id,transaction_amount,transaction_time,transaction_type,recipient_id,is_known_contact,from_country,transaction_from
+1,personal,10000000 ,T001,50000000 ,10.00 Waktu North Korea,K,2,TRUE,North Korea,L_Bank A
+2,personal,15000000 ,T002,50000000 ,10.00 Waktu North Korea,D,2,TRUE,North Korea,L_Bank A
+2,personal,15000000 ,T003,50000000 ,14.10 Waktu North Korea,K,3,FALSE,North Korea,L_Bank B
+3,business,20000000 ,T004,50000000 ,13.10 Waktu Indonesia,D,3,FALSE,North Korea,L_Bank B
+3,business,20000000 ,T005,40000000 ,13.15 Waktu Indonesia,K,4,TRUE,Indonesia,I_Bank A
+4,personal,12000000 ,T006,40000000 ,13.15 Waktu Indonesia,D,4,TRUE,Indonesia,I_Bank A
+4,personal,12000000 ,T007,30000000 ,20.00 Waktu Indonesia,K,5,FALSE,Indonesia,I_Bank B
+4,personal,12000000 ,T008,10000000 ,20.10 Waktu Indonesia,K,6,FALSE,Indonesia,I_Bank B
+5,personal,8000000 ,T009,30000000 ,20.00 Waktu Indonesia,D,4,FALSE,Indonesia,I_Bank B
+6,personal,6000000 ,T010,10000000 ,20.10 Waktu Indonesia,D,4,FALSE,Indonesia,I_Bank B
+7,personal,9000000 ,T011,600000 ,11:05 Waktu Indonesia,D,7,FALSE,Indonesia,Online Gambling
+8,business,5000000 ,T012,30000000 ,08.00 Waktu Indonesia,K,9,FALSE,Indonesia,I_Bank A
+9,business,4800000 ,T013,30000000 ,08.00 Waktu Indonesia,D,9,FALSE,Indonesia,I_Bank A
+9,business,4800000 ,T014,30000000 ,09.00 Waktu Indonesia,K,10,TRUE,Indonesia,I_Bank B
+10,business,3800000 ,T015,30000000 ,09.00 Waktu Indonesia,D,10,TRUE,Indonesia,I_Bank B
+10,business,4800000 ,T016,10000000 ,09.10 Waktu Indonesia,K,11,FALSE,Indonesia,I_Bank C
+10,business,4800000 ,T017,10000000 ,09.30 Waktu Indonesia,K,12,TRUE,Indonesia,I_Bank C
+10,business,4800000 ,T018,10000000 ,09.40 Waktu Indonesia,K,13,FALSE,Indonesia,I_Bank C
+11,personal,5000000 ,T019,10000000 ,09.10 Waktu Indonesia,D,10,FALSE,Indonesia,I_Bank C
+12,personal,2500000 ,T020,10000000 ,09.30 Waktu Indonesia,D,10,TRUE,Indonesia,I_Bank C
+13,personal,3000000 ,T021,10000000 ,09.40 Waktu Indonesia,D,10,FALSE,Indonesia,I_Bank C
+14,personal,1500000 ,T022,1000000 ,09.30 Waktu Indonesia,D,14,TRUE,Indonesia,I_Bank A
+15,personal,1300000 ,T023,1000000 ,09.00 Waktu Indonesia,D,15,FALSE,Indonesia,I_Bank B
+16,personal,1200000 ,T024,1500000 ,08.30 Waktu Indonesia,D,16,TRUE,Indonesia,I_Bank A
+17,personal,1100000 ,T025,1500000 ,11.40 Waktu Indonesia,D,17,FALSE,Indonesia,I_Bank B
+18,business,2000000 ,T026,2000000 ,08.35 Waktu Indonesia,D,18,TRUE,Indonesia,I_Bank A
+19,business,2100000 ,T027,2000000 ,14:00 Waktu Indonesia,D,19,FALSE,Indonesia,I_Bank B
+20,personal,1400000 ,T028,700000 ,20.30 Waktu Indonesia,D,20,FALSE,Indonesia,I_Bank A
+21,personal,13000000 ,T029,3200000 ,05.20 Waktu Indonesia,D,21,TRUE,Indonesia,I_Bank B
+22,personal,1600000 ,T030,900000 ,17.30 Waktu Indonesia,D,22,TRUE,Indonesia,I_Bank A
+23,personal,15000000 ,T031,4900000 ,19.00 Waktu Indonesia,D,23,TRUE,Indonesia,I_Bank B
+24,personal,10000000 ,T032,20000000 ,01.00 Waktu Singapore,D,24,TRUE,Singapore,L_Bank C
+24,personal,10000000 ,T033,20000000 ,01.10 Waktu Singapore,K,25,FALSE,Singapore,L_Bank C
+25,personal,15000000 ,T034,20000000 ,01.10 Waktu Indonesia,D,25,FALSE,Singapore,L_Bank C
+25,personal,15000000 ,T035,20000000 ,02.00 Waktu Indonesia,K,26,TRUE,Indonesia,I_Bank A
+26,business,25000000 ,T036,20000000 ,02.00 Waktu Indonesia,D,26,TRUE,Indonesia,I_Bank A
+26,business,25000000 ,T037,40000000 ,03.00 Waktu Indonesia,K,27,TRUE,Indonesia,I_Bank B
+27,personal,14000000 ,T038,40000000 ,03.00 Waktu Indonesia,D,27,TRUE,Indonesia,I_Bank B
+27,personal,14000000 ,T039,20000000 ,04.00 Waktu Indonesia,K,28,FALSE,Indonesia,I_Bank C
+27,personal,14000000 ,T040,15000000 ,04.05 Waktu Indonesia,K,29,FALSE,Indonesia,I_Bank C
+27,personal,14000000 ,T041,5000000 ,04.15 Waktu Indonesia,K,30,TRUE,Indonesia,I_Bank C
+28,business,12000000 ,T042,20000000 ,04.00 Waktu Indonesia,D,28,FALSE,Indonesia,I_Bank C
+29,personal,11000000 ,T043,15000000 ,04.05 Waktu Indonesia,D,29,FALSE,Indonesia,I_Bank C
+30,personal,9000000 ,T044,5000000 ,04.15 Waktu Indonesia,D,30,TRUE,Indonesia,I_Bank C
+31,business,15000000 ,T045,100000000 ,15.15 Waktu Venezuela,K,32,FALSE,Venezuela,L_Bank D
+32,personal,3000000 ,T046,100000000 ,02.15 Waktu Indonesia,D,32,FALSE,Venezuela,L_Bank D
+33,business,20000000 ,T047,150000000 ,11.00 Waktu Germany,D,33,TRUE,Germany,L_Bank E
+33,business,20000000 ,T048,150000000 ,22.00 Waktu Germany,K,34,FALSE,Germany,L_Bank E
+34,business,25000000 ,T049,120000000 ,03.00 Waktu Indonesia,D,34,FALSE,Germany,L_Bank E
+34,business,25000000 ,T050,120000000 ,04.00 Waktu Indonesia,K,35,FALSE,Indonesia,I_Bank A
+35,business,15000000 ,T051,120000000 ,04.00 Waktu Indonesia,D,35,FALSE,Indonesia,Banking
