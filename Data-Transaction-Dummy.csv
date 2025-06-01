@@ -66,3 +66,36 @@
 47,personal,10000000,T065,30000000,01.30 Waktu Indonesia,D,47,TRUE,Indonesia,I_Bank A
 48,personal,5000000,T066,20000000,03.00 Waktu Indonesia,D,48,FALSE,Indonesia,I_Bank C
 49,personal,10000000,T067,90000000,02.30 Waktu Indonesia,D,49,FALSE,Singapore,L_Bank C
+50,personal,1000000,T068,20000000,01.05 Waktu Indonesia,D,50,FALSE,Singapore,Online Gambling
+51,personal,5000000,T069,4500000,08.15 Waktu Indonesia,K,52,TRUE,Indonesia,I_Bank_A
+52,personal,6000000,T070,4400000,08.50 Waktu Indonesia,D,52,TRUE,Indonesia,I_Bank_A
+52,personal,6000000,T071,4400000,09.00 Waktu Indonesia,K,53,TRUE,Indonesia,I_Bank_A
+53,personal,5500000,T072,4400000,09.00 Waktu Indonesia,D,53,TRUE,Indonesia,I_Bank_A
+53,personal,5500000,T073,4400000,10.30 Waktu Indonesia,K,54,FALSE,Indonesia,I_Bank_B
+54,personal,7000000,T074,4400000,10.30 Waktu Indonesia,D,54,FALSE,Indonesia,I_Bank_B
+55,personal,3000000,T075,4500000,02.30 Waktu Indonesia,K,101,FALSE,Indonesia,I_Bank_A
+56,business,10000000,T076,12000000,14.00 Waktu Indonesia,D,56,FALSE,Malaysia,L_Bank H
+57,personal,2500000,T077,3500000,22.15 Waktu Indonesia,K,102,FALSE,Indonesia,I_Bank_A
+58,business,5000000,T078,7000000,03.00 Waktu Indonesia,D,57,FALSE,Indonesia,I_Bank_A
+59,personal,4000000,T079,6000000,01.45 Waktu Indonesia,K,103,FALSE,Indonesia,I_Bank C
+60,business,8000000,T080,9000000,23.30 Waktu Indonesia,D,60,FALSE,Indonesia,I_Bank_B
+61,personal,2000000,T081,3500000,01.00 Waktu Indonesia,K,102,TRUE,Indonesia,I_Bank_A
+62,business,15000000,T082,20000000,15.30 Waktu Indonesia,D,62,TRUE,Singapore,L_Bank C
+63,personal,1500000,T083,2200000,23.45 Waktu Indonesia,K,104,TRUE,Indonesia,I_Bank_B
+64,business,7000000,T084,10000000,02.00 Waktu Indonesia,D,64,TRUE,Indonesia,I_Bank_B
+65,personal,3500000,T085,5500000,20.30 Waktu Indonesia,K,105,TRUE,Indonesia,I_Bank_D
+66,business,12000000,T086,15000000,18.15 Waktu Indonesia,D,66,TRUE,Germany,L_Bank E
+67,personal,4000000,T087,6500000,03.30 Waktu Indonesia,K,106,TRUE,Singapore,L_Bank C
+68,personal,4000000,T088,2500000,02.30 Waktu Indonesia,D,68,TRUE,Indonesia,I_Bank_A
+68,personal,4000000,T089,7800000,11.15 Waktu Indonesia ,D,68,FALSE,Indonesia,I_Bank_B
+68,personal,4000000,T090,1200000,12.00 Waktu Indonesia,D,68,FALSE,Malaysia,L_Bank H
+68,personal,4000000,T091,6000000,01.45 Waktu Indonesia,D,68,TRUE,Singapore,L_Bank C
+69,business,8000000,T092,9000000,02.30 Waktu Indonesia,K,103,TRUE,Indonesia,I_Bank_A
+69,business,8000000,T093,7800000,01.15 Waktu Indonesia ,K,105,FALSE,Indonesia,I_Bank_B
+69,business,8000000,T094,12000000,12.00 Waktu Indonesia,K,106,FALSE,Indonesia,I_Bank_B
+70,personal,2000000,T095,2000000,01.45 Waktu Indonesia,K,71,TRUE,Indonesia,I_Bank_A
+70,personal,2000000,T096,2000000,02.45 Waktu Indonesia,K,71,TRUE,Indonesia,I_Bank_A
+70,personal,2000000,T097,2000000,11.45 Waktu Indonesia,K,71,TRUE,Indonesia,I_Bank_A
+71,business,8000000,T098,2000000,01.45 Waktu Indonesia,D,71,TRUE,Indonesia,I_Bank_A
+71,business,8000000,T099,2000000,02.45 Waktu Indonesia,D,71,TRUE,Indonesia,I_Bank_A
+71,business,8000000,T100,2000000,11.45 Waktu Indonesia,D,71,TRUE,Indonesia,I_Bank_A
