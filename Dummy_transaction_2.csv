@@ -1,0 +1,10 @@
+﻿account_id; transaction_id ; transaction_amount ;transaction_type;sender_id;recipient_id
+1;TRX0001; Rp50,000,000.00 ;K;1;2
+2;TRX0001; Rp50,000,000.00 ;D;1;2
+2;TRX0002; Rp50,000,000.00 ;K;2;3
+3;TRX0002; Rp50,000,000.00 ;D;2;3
+3;TRX0003; Rp40,000,000.00 ;K;3;4
+4;TRX0003; Rp40,000,000.00 ;D;3;4
+4;TRX0004; Rp30,000,000.00 ;K;4;5
+4;TRX0005; Rp10,000,000.00 ;K;4;6
+;;;;;
